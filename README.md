@@ -1,6 +1,7 @@
 ### Hi there, I'm Joe - aka [Djoowe](djoowe-me) 👋 
 
-[![Personal Website](https://img.shields.io/website?label=Personal%20Website&style=for-the-badge&url=https%3A%2F%2Fdjoowe.me)](djoowe-me) [![Company Site](https://img.shields.io/website?label=Company%20Site&style=for-the-badge&url=https%3A%2F%2Fdjoowe.com)](djoowe-com)
+[<img src="https://img.shields.io/website?label=Personal%20Website&style=for-the-badge&url=https%3A%2F%2Fdjoowe.me">][djoowe-me]
+[<img src="https://img.shields.io/website?label=Company%20Site&style=for-the-badge&url=https%3A%2F%2Fdjoowe.com">][djoowe-com]
 
 ## I'm a Gamer and Developer!
 
