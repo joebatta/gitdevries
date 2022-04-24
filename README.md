@@ -5,8 +5,8 @@
 ## I'm a Gamer and Developer!
 
 - 🎮 Pasionated gamer with a on-going project [Nepkings](https://nepkings.com?utm_source=github) 
-- 🤣 I’m currently learning *too much* and wanna understand **Go** for some purposes
-- 🥅 2022 Goals: Launch my projects
+- 🤣 Not learning a lot of new things. Mainly focusing on PHP, Node and Java
+- 🥅 2022 Goals: Launch more projects and help local small businesses
 - ⚡ Fun fact: I'm trying to play harmonica
 
 ### Connect with me:
