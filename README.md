@@ -31,6 +31,6 @@
 
 ---
 
-[djoowe-me]: https://djoowe.me?utm_source=github&utm-medium=profile
+[djoowe-me]: https://gitdevries.com?utm_source=github&utm-medium=profile
 [linkedin]: https://www.linkedin.com/in/xjoeyv/
 [instagram]: https://instagram.com/djoowe
