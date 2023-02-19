@@ -1,12 +1,12 @@
-### Hi there, I'm Joe - aka [Djoowe](djoowe-me) 👋 
+### Hi there, I'm Joe 👋 
 
-[<img src="https://img.shields.io/website?label=Personal%20Website&style=for-the-badge&url=https%3A%2F%2Fdjoowe.me">][djoowe-me]
+[<img src="https://img.shields.io/website?label=Personal%20Website&style=for-the-badge&url=https%3A%2F%2Fgiobatta.nl">][personal-site]
 
 ## I'm a Gamer and Developer!
 
 - 🎮 Pasionated gamer with a on-going project [Nepkings](https://nepkings.com?utm_source=github) 
 - 🤣 Not learning a lot of new things. Mainly focusing on PHP, Node and Java
-- 🥅 2022 Goals: Launch more projects and help local small businesses
+- 🥅 2023 Goals: Launch a couple Open-Source projects. And prototyping a SaaS
 - ⚡ Fun fact: I'm trying to play harmonica
 
 ### Connect with me:
@@ -31,6 +31,5 @@
 
 ---
 
-[djoowe-me]: https://gitdevries.com?utm_source=github&utm-medium=profile
-[linkedin]: https://www.linkedin.com/in/xjoeyv/
-[instagram]: https://instagram.com/djoowe
+[personal-site]: https://giobatta.nl?utm_source=github&utm-medium=profile
+[linkedin]: https://www.linkedin.com/in/giobatta
