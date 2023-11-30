@@ -4,7 +4,7 @@
 
 ## I'm a Gamer and Developer!
 
-- 🎮 Pasionated gamer with a on-going project [Nepkings](https://nepkings.com?utm_source=github) 
+- 🎮 Pasionated gamer
 - 🤣 Not learning a lot of new things. Mainly focusing on PHP, Node and Java
 - 🥅 2023 Goals: Launch a couple Open-Source projects. And prototyping a SaaS
 - ⚡ Fun fact: I'm trying to play harmonica
