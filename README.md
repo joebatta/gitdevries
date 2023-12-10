@@ -6,15 +6,8 @@
 
 - 🎮 Pasionated gamer
 - 🤣 Not learning a lot of new things. Mainly focusing on PHP, Node and Java
-- 🥅 2023 Goals: Launch a couple Open-Source projects. And prototyping a SaaS
+- 🥅 2024 Goals: Launch a couple Open-Source projects. And prototyping a SaaS
 - ⚡ Fun fact: I'm trying to play harmonica
-
-### Connect with me:
-
-[<img align="left" alt="Joey 'Djoowe' de Vries | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Joey 'Djoowe' de Vries | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
